@@ -1,5 +1,6 @@
 var playlist = {
-  'Future Islands':''
+  'Future Islands': 'Tin Man',
+  'Wild Beasts': 'Sweet Spot'
 }
 
 function updatePlaylist(obj, key, value) {
