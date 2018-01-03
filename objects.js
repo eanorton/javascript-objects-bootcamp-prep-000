@@ -3,7 +3,7 @@ var playlist = {
   'Wild Beasts': 'Sweet Spot'
 }
 
-function updatePlaylist(obj, key, value) {
+function updatePlaylist(playlist, artist, song) {
   obj[key] = value
   return obj
 }
